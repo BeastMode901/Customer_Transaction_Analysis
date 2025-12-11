@@ -1,0 +1,11 @@
+-- 1. Which state generated the highest total revenue?
+-- 2. What is the average transaction amount by product category?
+-- 3. Which product categories have sold the most items?
+-- 4. Which sales channel generates the most revenue (Online vs In-Store)?
+-- 5. How does average transaction amount vary by customer age group?
+-- 6. What is the distribution of returning vs new customers?
+-- 7. Which payment method is most frequently used by customers?
+-- 8. What is the most common product category among each gender?
+-- 9. Which sales channel is most popular in each U.S. state?
+-- 10. What is the average transaction sale per year?
+		
