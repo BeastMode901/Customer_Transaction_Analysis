@@ -4,13 +4,11 @@
 This project analyzes a customer transactions dataset to uncover insights about state-level revenue, product performance, customer behavior, sales channels, and payment preferences. Using SQL and Power BI, I explored how different factors—such as age, gender, product category, payment method, and sales channel—impact spending patterns and overall business performance.  
 The goal of this project was to transform raw transactional data into meaningful insights that support decision-making, marketing strategy, and customer segmentation.
 
----
-
 ## 🗄️ Database
 - **Database Name:** `Customer_Transaction`  
 - **Table Name:** `customer_transactions`  
 
-### **Columns**
+### Columns
 - `Customer_ID` – Unique identifier for each customer  
 - `Age` – Age of the customer  
 - `Gender` – Customer's gender (Male or Female)  
@@ -23,19 +21,19 @@ The goal of this project was to transform raw transactional data into meaningful
 - `Country` – Country where the transaction took place  
 - `State` – U.S. state where the transaction took place  
 - `Is_Returning_Customer` – Indicates whether the customer is returning or new  
- 
 
 ---
+
 ## Files Included
 - **`Customer_Transactions.csv`** – Original dataset  
-- **`Customer_Transactions.sql`** – SQL script used to analyze the table
+- **`Customer_Transactions.sql`** – SQL script used to analyze the table  
 - **`Database Creation and Data Cleaning.sql`** – SQL script to create the database and clean the dataset  
-- **`Analysis Questions.sql`** – Analysis Questions
+- **`Analysis Questions.sql`** – Analysis questions  
 - **`Analysis Solutions.sql`** – SQL queries with results of each analysis  
 - **`Customer_Transactions.pbix`** – Power BI dashboard visualizing all findings  
 
-
 ---
+
 ## Analysis Questions
 This project answers the following analytical questions:
 
@@ -63,6 +61,5 @@ This project answers the following analytical questions:
 - Male customers showed a strong preference for purchasing Toys, while female customers leaned more toward Beauty products.
 - Across all states, 13 states favored Online shopping compared to 10 states that favored In-Store shopping.
 - The average transaction amount in 2024 was higher than in 2023, showing growth in customer spending.
-
 
 ---
