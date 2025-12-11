@@ -1,4 +1,4 @@
-# Customer Transactions Analysis
+# Customer Transaction Analysis
 
 ## Project Overview
 This project analyzes a customer transactions dataset to uncover insights about state-level revenue, product performance, customer behavior, sales channels, and payment preferences. Using SQL and Power BI, I explored how different factors—such as age, gender, product category, payment method, and sales channel—impact spending patterns and overall business performance.  
