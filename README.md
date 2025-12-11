@@ -26,7 +26,16 @@ The goal of this project was to transform raw transactional data into meaningful
  
 
 ---
+## Files Included
+- **`Customer_Transactions.csv`** – Original dataset  
+- **`Customer_Transactions.sql`** – SQL script used to analyze the table
+- **`Database Creation and Data Cleaning.sql`** – SQL script to create the database and clean the dataset  
+- **`Analysis Questions.sql`** – Analysis Questions
+- **`Analysis Solutions.sql`** – SQL queries with results of each analysis  
+- **`Customer_Transactions.pbix`** – Power BI dashboard visualizing all findings  
 
+
+---
 ## Analysis Questions
 This project answers the following analytical questions:
 
@@ -40,16 +49,6 @@ This project answers the following analytical questions:
 8. What is the most common product category among each gender?  
 9. Which sales channel is most popular in each U.S. state?  
 10. What is the average transaction sale per year?
-
----
-
-## Files Included
-- **`Customer_Transactions.csv`** – Original dataset  
-- **`Customer_Transactions.sql`** – SQL script used to analyze the table
-- **`Database Creation and Data Cleaning.sql`** – SQL script to create the database and clean the dataset  
-- **`Analysis Questions.sql`** – Analysis Questions
-- **`Analysis Solutions.sql`** – SQL queries with results of each analysis  
-- **`Customer_Transactions.pbix`** – Power BI dashboard visualizing all findings  
 
 ---
 
